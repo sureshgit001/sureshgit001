@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=250&section=header&text=Suresh%20Anthati&fontSize=80&fontColor=007ACC&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=75&descAlign=60" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=250&section=header&text=Suresh%20Anthati&fontSize=80&fontColor=007ACC&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React.js%20and%20Node.js&descAlignY=75&descAlign=60" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/sureshgit001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Full+Stack+Software+Engineer;React.js+%2B+Node.js+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Full+Stack+Software+Engineer;React.js+and+Node.js+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/anthati-suresh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sureshanthati7@gmail.com" target="_blank">
+  <a href="url?id=19" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -23,6 +21,7 @@
 
 I am a **Full Stack Software Engineer** specializing in the React and Node.js ecosystem. I architect and build scalable, high-performance B2B web applications and robust backend services. 
 
+- 💼 Currently working as a **Software Engineer** at TechnePlus, Bengaluru.
 - 🚀 Deep expertise in **React.js, Next.js, Node.js, and Express.js** for modern full-stack architectures.
 - 🔧 Experienced with complex state management (Redux) and server-side logic for high-volume operations.
 - 🌱 Currently exploring advanced AI-powered web integrations and scalable System Design.
@@ -41,6 +40,14 @@ I am a **Full Stack Software Engineer** specializing in the React and Node.js ec
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
 ### 🌐 Languages & Styling
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -55,20 +62,6 @@ I am a **Full Stack Software Engineer** specializing in the React and Node.js ec
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshgit001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suresh's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshgit001&theme=tokyonight&hide_border=true" alt="Suresh's GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgit001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 <div align="center">
