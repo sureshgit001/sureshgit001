@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suresh%20Anthati&fontSize=80&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=250&section=header&text=Suresh%20Anthati&fontSize=80&fontColor=007ACC&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=75&descAlign=60" alt="Header Banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Suresh</h1>
-<h3 align="center">Software Engineer specializing in scalable B2B web applications and e-commerce solutions[cite: 1].</h3>
+<div align="center">
+  <a href="https://github.com/sureshgit001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=Full+Stack+Software+Engineer;React.js+%2B+Node.js+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/anthati-suresh" target="_blank">
@@ -16,42 +19,58 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 💼 Currently working as a Software Engineer at TechnePlus in Bengaluru[cite: 1].
-* 🚀 Previously an Associate Software Engineer at Altech Star Solutions[cite: 1].
-* 🛠️ Experienced in building and maintaining high-volume B2B eCommerce storefronts using Node.js, Express.js, and Oracle Commerce Cloud (OCC/OSF)[cite: 1].
-* ⚛️ Architected complex React.js and Next.js applications with Redux state management and TypeScript[cite: 1].
-* 📫 Reach out to me at: **sureshanthati7@gmail.com**[cite: 1]
+I am a **Full Stack Software Engineer** specializing in the React and Node.js ecosystem. I architect and build scalable, high-performance B2B web applications and robust backend services. 
 
-<br/>
+- 🚀 Deep expertise in **React.js, Next.js, Node.js, and Express.js** for modern full-stack architectures.
+- 🔧 Experienced with complex state management (Redux) and server-side logic for high-volume operations.
+- 🌱 Currently exploring advanced AI-powered web integrations and scalable System Design.
+- 💬 Ask me about: **React, Redux, Node.js workflows, and eCommerce architectures.**
 
-### 🛠️ Tech Stack
+---
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## ⚡ Technical Arsenal
 
-**Backend & Platforms:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Oracle CX](https://img.shields.io/badge/Oracle_CX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 💻 Full Stack Core
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
-**Tools:**  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+### 🌐 Languages & Styling
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
-<br/>
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Oracle_CX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle CX" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+</p>
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshgit001&show_icons=true&theme=radium&hide_border=true" alt="Suresh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgit001&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshgit001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suresh's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshgit001&theme=tokyonight&hide_border=true" alt="Suresh's GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgit001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
 </div>
