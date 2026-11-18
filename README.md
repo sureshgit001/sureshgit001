@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=250&section=header&text=Suresh%20Anthati&fontSize=80&fontColor=007ACC&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React.js%20Node.js%20and%20GenAI&descAlignY=75&descAlign=60" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=250&section=header&text=Suresh%20Anthati&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React.js%20Node.js%20and%20GenAI&descAlignY=75&descAlign=60" alt="Header Banner" />
 </div>
 
 <div align="center">
